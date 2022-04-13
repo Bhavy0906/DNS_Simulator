@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DNS_Simulator/static/css/main.3afc4eda.css",
+    "main.js": "/DNS_Simulator/static/js/main.9b6ebe82.js",
+    "static/js/787.8f4a5dea.chunk.js": "/DNS_Simulator/static/js/787.8f4a5dea.chunk.js",
+    "index.html": "/DNS_Simulator/index.html",
+    "main.3afc4eda.css.map": "/DNS_Simulator/static/css/main.3afc4eda.css.map",
+    "main.9b6ebe82.js.map": "/DNS_Simulator/static/js/main.9b6ebe82.js.map",
+    "787.8f4a5dea.chunk.js.map": "/DNS_Simulator/static/js/787.8f4a5dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3afc4eda.css",
+    "static/js/main.9b6ebe82.js"
+  ]
+}
